@@ -165,8 +165,19 @@ void square(int n){
     }
 }
 
+void grid(int n){
+    int k =2*n-1;
+    for(int i=0;i<k;i++){
+        for (int j=0;j<k;j++){
+            int top=i,bottom=k-1-i,left=j,right=k-1-j;
+            cout << (n-min(min(top,bottom),min(left,right)));
+        }
+        cout << endl;
+    } 
+}
+
 int main(){
     int n;
     cin >> n;
-    square(n);
+    grid(n);
 }
