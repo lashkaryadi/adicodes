@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lashkaryadi/adicodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lashkaryadi/adicodes/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/lashkaryadi/adicodes/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lashkaryadi/adicodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lashkaryadi/adicodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lashkaryadi/adicodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lashkaryadi/adicodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lashkaryadi/adicodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lashkaryadi/adicodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lashkaryadi/adicodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
