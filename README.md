@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/lashkaryadi/adicodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lashkaryadi/adicodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0977-squares-of-a-sorted-array](https://github.com/lashkaryadi/adicodes/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/lashkaryadi/adicodes/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/lashkaryadi/adicodes/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lashkaryadi/adicodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1140-stone-game-ii](https://github.com/lashkaryadi/adicodes/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lashkaryadi/adicodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quicksort
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/lashkaryadi/adicodes/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lashkaryadi/adicodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lashkaryadi/adicodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -79,4 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lashkaryadi/adicodes/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/lashkaryadi/adicodes/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/lashkaryadi/adicodes/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/lashkaryadi/adicodes/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/lashkaryadi/adicodes/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
