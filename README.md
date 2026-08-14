@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lashkaryadi/adicodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lashkaryadi/adicodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/lashkaryadi/adicodes/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/lashkaryadi/adicodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lashkaryadi/adicodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lashkaryadi/adicodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lashkaryadi/adicodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/lashkaryadi/adicodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lashkaryadi/adicodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
